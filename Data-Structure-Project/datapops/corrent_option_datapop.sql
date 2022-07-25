@@ -1,0 +1,122 @@
+use test_yourself;
+insert into `correct_option` (c_option_letter, instructor_email, question_number)
+values 
+('C', 'useremail1', 10001),
+('C', 'useremail1', 10002),
+('C', 'useremail1', 10003),
+('C', 'useremail1', 10004),
+('C', 'useremail1', 10005),
+
+('C', 'useremail1', 20001),
+('C', 'useremail1', 20002),
+('C', 'useremail1', 20003),
+('C', 'useremail1', 20004),
+('C', 'useremail1', 20005),
+
+('C', 'useremail1', 30001),
+('C', 'useremail1', 30002),
+('C', 'useremail1', 30003),
+('C', 'useremail1', 30004),
+('C', 'useremail1', 30005),
+
+('C', 'useremail2', 40001),
+('C', 'useremail2', 40002),
+('C', 'useremail2', 40003),
+('C', 'useremail2', 40004),
+('C', 'useremail2', 40005),
+
+('C', 'useremail2', 50001),
+('C', 'useremail2', 50002),
+('C', 'useremail2', 50003),
+('C', 'useremail2', 50004),
+('C', 'useremail2', 50005),
+
+('C', 'useremail2', 80001),
+('C', 'useremail2', 80002),
+('C', 'useremail2', 80003),
+('C', 'useremail2', 80004),
+('C', 'useremail2', 80005),
+
+('C', 'useremail3', 90001),
+('C', 'useremail3', 90002),
+('C', 'useremail3', 90003),
+('C', 'useremail3', 90004),
+('C', 'useremail3', 90005),
+
+('C', 'useremail3', 11001),
+('C', 'useremail3', 11002),
+('C', 'useremail3', 11003),
+('C', 'useremail3', 11004),
+('C', 'useremail3', 11005),
+
+('C', 'useremail3', 12001),
+('C', 'useremail3', 12002),
+('C', 'useremail3', 12003),
+('C', 'useremail3', 12004),
+('C', 'useremail3', 12005),
+
+('C', 'useremail4', 13001),
+('C', 'useremail4', 13002),
+('C', 'useremail4', 13003),
+('C', 'useremail4', 13004),
+('C', 'useremail4', 13005),
+
+('C', 'useremail4', 14001),
+('C', 'useremail4', 14002),
+('C', 'useremail4', 14003),
+('C', 'useremail4', 14004),
+('C', 'useremail4', 14005),
+
+('C', 'useremail4', 15001),
+('C', 'useremail4', 15002),
+('C', 'useremail4', 15003),
+('C', 'useremail4', 15004),
+('C', 'useremail4', 15005),
+
+('C', 'useremail5', 16001),
+('C', 'useremail5', 16002),
+('C', 'useremail5', 16003),
+('C', 'useremail5', 16004),
+('C', 'useremail5', 16005),
+
+('C', 'useremail5', 17001),
+('C', 'useremail5', 17002),
+('C', 'useremail5', 17003),
+('C', 'useremail5', 17004),
+('C', 'useremail5', 17005),
+
+('C', 'useremail5', 18001),
+('C', 'useremail5', 18002),
+('C', 'useremail5', 18003),
+('C', 'useremail5', 18004),
+('C', 'useremail5', 18005),
+
+('C', 'useremail6', 19001),
+('C', 'useremail6', 19002),
+('C', 'useremail6', 19003),
+('C', 'useremail6', 19004),
+('C', 'useremail6', 19005),
+
+('C', 'useremail6', 21001),
+('C', 'useremail6', 21002),
+('C', 'useremail6', 21003),
+('C', 'useremail6', 21004),
+('C', 'useremail6', 21005),
+
+('C', 'useremail7', 22001),
+('C', 'useremail7', 22002),
+('C', 'useremail7', 22003),
+('C', 'useremail7', 22004),
+('C', 'useremail7', 22005),
+
+('C', 'useremail7', 23001),
+('C', 'useremail7', 23002),
+('C', 'useremail7', 23003),
+('C', 'useremail7', 23004),
+('C', 'useremail7', 23005),
+
+('C', 'useremail7', 24001),
+('C', 'useremail7', 24002),
+('C', 'useremail7', 24003),
+('C', 'useremail7', 24004),
+('C', 'useremail7', 24005);

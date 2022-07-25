@@ -1,0 +1,13 @@
+Steps->
+1- Enter "TableCreation And Data Population" folder
+2- Use Create_Database.sql to create database and tables
+3- Use Populate_Data to fill those tables and this folder is done
+
+4- Enter "insert-delete-update" folder
+5- Use "insertnew3user.sql" first
+6- Use "delete3user.sql" second
+7- Do step 5 again
+8- Use "update3user.sql" finally and this folder is done
+
+9- Datapops folder is just for illusturation, those sql files are parts of "Populate_Data" file
+10- Use "complex_queries" and "basic listing queries" in a way you want.

@@ -1,0 +1,22 @@
+use test_yourself;
+insert into `test` (test_name, instructor_email, num_of_questions,upload_date)
+values ('test name 1', 'useremail1', 5, '2021-01-01'),
+('test name 2', 'useremail1', 5, '2021-10-01'),
+('test name 3', 'useremail1', 5, '2021-11-02'),
+('test name 4', 'useremail2', 5, '2021-01-03'),
+('test name 5', 'useremail2', 5, '2021-07-04'),
+('test name 6', 'useremail2', 5, '2021-02-01'),
+('test name 7', 'useremail3', 5, '2021-03-01'),
+('test name 8', 'useremail3', 5, '2021-05-01'),
+('test name 9', 'useremail3', 5, '2021-02-02'),
+('test name 10', 'useremail4', 5, '2021-01-03'),
+('test name 11', 'useremail4', 5, '2021-03-14'),
+('test name 12', 'useremail4', 5, '2021-01-11'),
+('test name 13', 'useremail5', 5, '2021-01-21'),
+('test name 14', 'useremail5', 5, '2021-12-02'),
+('test name 15', 'useremail5', 5, '2021-11-03'),
+('test name 16', 'useremail6', 5, '2021-01-27'),
+('test name 17', 'useremail6', 5, '2021-01-19'),
+('test name 18', 'useremail7', 5, '2021-02-01'),
+('test name 19', 'useremail7', 5, '2021-03-11'),
+('test name 20', 'useremail7', 5, '2021-01-01');

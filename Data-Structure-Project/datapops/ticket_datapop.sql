@@ -1,0 +1,20 @@
+use test_yourself;
+insert into `ticket` (ticket_id, category, content, admin_email, check_date)
+values (66661, 'withdrawal', 'content of ticket1', 'useremail17', '2021-05-01' ),
+(66662, 'payment', 'content of ticket2', 'useremail18', '2021-05-02' ),
+(66663, 'subscription', 'content of ticket3', 'useremail19', '2021-06-01' ),
+(66664, 'payment', 'content of ticket4', 'useremail20', '2021-05-03' ),
+(66665, 'unsubscription', 'content of ticket5', 'useremail17', '2021-10-21' ),
+(66666, 'payment', 'content of ticket6', 'useremail18', '2021-07-21' ),
+(66667, 'subscription', 'content of ticket7', 'useremail19', '2021-11-01' ),
+(66668, 'payment', 'content of ticket8', 'useremail20', '2021-12-12' ),
+(66669, 'unsubscription', 'content of ticket9', 'useremail17', '2021-05-11' ),
+(66670, 'subscription', 'content of ticket10', 'useremail18', '2021-05-23' ),
+(66671, 'payment', 'content of ticket11', 'useremail19', '2021-05-12' ),
+(66672, 'subscription', 'content of ticket12', NULL, NULL ),
+(66673, 'unsubscription', 'content of ticket13', NULL, NULL),
+(66674, 'unsubscription', 'content of ticket14', NULL, NULL),
+(66675, 'withdrawal', 'content of ticket15', NULL, NULL ),
+(66676, 'payment', 'content of ticket16', NULL, NULL),
+(66677, 'subscription', 'content of ticket17', NULL, NULL ),
+(66678, 'withdrawal', 'content of ticket18', NULL, NULL );

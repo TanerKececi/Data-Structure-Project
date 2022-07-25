@@ -1,0 +1,27 @@
+use test_yourself;
+insert into `rate` (instructor_email,sub_student_email, stars)
+values ('useremail1', 'useremail9', 5),
+('useremail2', 'useremail10', 1),
+('useremail3', 'useremail11', 2),
+('useremail4', 'useremail12', 3),
+('useremail5', 'useremail13', 2),
+('useremail6', 'useremail14', 4),
+('useremail7', 'useremail9', 2),
+('useremail8', 'useremail10', 1),
+('useremail1', 'useremail11', 2),
+('useremail2', 'useremail12', 5),
+('useremail3', 'useremail13', 4),
+('useremail4', 'useremail14', 2),
+('useremail5', 'useremail9', 1),
+('useremail6', 'useremail10', 3),
+('useremail7', 'useremail11', 2),
+('useremail8', 'useremail12', 5),
+('useremail1', 'useremail13', 2),
+('useremail2', 'useremail14', 5),
+('useremail3', 'useremail9', 4),
+('useremail4', 'useremail10', 2),
+('useremail5', 'useremail11', 1),
+('useremail6', 'useremail12', 3),
+('useremail7', 'useremail13', 2),
+('useremail8', 'useremail14', 5);
+

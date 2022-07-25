@@ -1,0 +1,22 @@
+use test_yourself;
+insert into `user` (email, password, surname, name, phone_number, security_number, expire_year, expire_month, credit_card_no, address, dob)
+values ('useremail1', 'userpasword1', 'usersurname1', 'username1', 'usrphonenum1', 111111, 1111, 01,11111, 'useraddress1', '1997-10-06'),
+('useremail2', 'userpasword2', 'usersurname2', 'username2', 'usrphonenum2', 111112, 1112, 02,11112, 'useraddress2', '1997-10-07'),
+('useremail3', 'userpasword3', 'usersurname3', 'username3', 'usrphonenum3', 111113, 1113, 03,11113, 'useraddress3', '1997-10-08'),
+('useremail4', 'userpasword4', 'usersurname4', 'username4', 'usrphonenum4', 111114, 1114, 04,11114, 'useraddress4', '1997-10-09'),
+('useremail5', 'userpasword5', 'usersurname5', 'username5', 'usrphonenum5', 111115, 1115, 05,11115, 'useraddress5', '1997-10-10'),
+('useremail6', 'userpasword6', 'usersurname6', 'username6', 'usrphonenum6', 111116, 1116, 06,11116, 'useraddress6', '1997-10-11'),
+('useremail7', 'userpasword7', 'usersurname7', 'username7', 'usrphonenum7', 111117, 1117, 07,11117, 'useraddress7', '1997-10-12'),
+('useremail8', 'userpasword8', 'usersurname8', 'username8', 'usrphonenum8', 111118, 1118, 08,11118, 'useraddress8', '1997-10-13'),
+('useremail9', 'userpasword9', 'usersurname9', 'username9', 'usrphonenum9', 111119, 1119, 09,11119, 'useraddress9', '1997-10-14'),
+('useremail10', 'userpasword10', 'usersurname10', 'username10', 'usrphonenum10', 111120, 1120, 10,11120, 'useraddress10', '1997-10-15'),
+('useremail11', 'userpasword11', 'usersurname11', 'username11', 'usrphonenum11', 111121, 1121, 11,11121, 'useraddress11', '1997-10-16'),
+('useremail12', 'userpasword12', 'usersurname12', 'username12', 'usrphonenum12', 111122, 1122, 12,11122, 'useraddress12', '1997-10-17'),
+('useremail13', 'userpasword13', 'usersurname13', 'username13', 'usrphonenum13', 111123, 1123, 01,11123, 'useraddress13', '1997-10-18'),
+('useremail14', 'userpasword14', 'usersurname14', 'username14', 'usrphonenum14', 111124, 1124, 02,11124, 'useraddress14', '1997-10-19'),
+('useremail15', 'userpasword15', 'usersurname15', 'username15', 'usrphonenum15', 111125, 1125, 03,11125, 'useraddress15', '1997-10-20'),
+('useremail16', 'userpasword16', 'usersurname16', 'username16', 'usrphonenum16', 111126, 1126, 04,11126, 'useraddress16', '1997-10-21'),
+('useremail17', 'userpasword17', 'usersurname17', 'username17', 'usrphonenum17', 111127, 1127, 05,11127, 'useraddress17', '1997-10-22'),
+('useremail18', 'userpasword18', 'usersurname18', 'username18', 'usrphonenum18', 111128, 1128, 06,11128, 'useraddress18', '1997-10-23'),
+('useremail19', 'userpasword19', 'usersurname19', 'username19', 'usrphonenum19', 111129, 1129, 07,11129, 'useraddress19', '1997-10-24'),
+('useremail20', 'userpasword20', 'usersurname20', 'username20', 'usrphonenum20', 111130, 1130, 08,11130, 'useraddress20', '1997-10-25');
